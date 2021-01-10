@@ -1,0 +1,383 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.23.0" title="Shotcut version 20.10.31" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/babypenguin.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-18T15:48:26</property>
+    <property name="shotcut:caption">babypenguin.jpg</property>
+    <property name="shotcut:hash">5f6d8698156a341e5623d0ff254c68cd</property>
+    <property name="ignore_points">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/danceparty.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-18T15:48:30</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fd447edfd8d10e7053f9e662afbbc1de</property>
+    <property name="shotcut:caption">danceparty.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:02:45.040">
+    <property name="length">00:02:45.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/Funshine.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-18T15:48:20</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3aebd26122486521b6bbf91e22e6351f</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/madlyinlove.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-18T15:48:34</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">84dca15ba532424cf86da185a843d833</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/penguinfamily.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-18T15:48:40</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a6e0dbd99e15a9e05f4983b828852413</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="00:00:12.240">
+    <property name="length">00:00:12.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/swimming.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2018-12-08T20:17:02</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5bb26f7d1bdadface02a04672df61425</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">swimming.mp4</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/titlepage.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-18T15:48:46</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ba3ad647106e7765e0fe3b51d22dfe54</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 20.10.31">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:02:45.040"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:12.240"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:26.360">
+    <property name="length">00:00:26.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:26.360"/>
+  </playlist>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/titlepage.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-18T15:48:46</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ba3ad647106e7765e0fe3b51d22dfe54</property>
+    <property name="shotcut:caption">titlepage.jpg</property>
+    <filter id="filter0" out="00:00:05.080">
+      <property name="argument">Enjoy this video created by iborwick</property>
+      <property name="geometry">2 2 1918 1073 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/babypenguin.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-18T15:48:26</property>
+    <property name="shotcut:caption">babypenguin.jpg</property>
+    <property name="shotcut:hash">5f6d8698156a341e5623d0ff254c68cd</property>
+    <property name="ignore_points">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter1" out="00:00:03.960">
+      <property name="smooth">0.8</property>
+      <property name="radius">0.2</property>
+      <property name="x">0.5</property>
+      <property name="y">0.5</property>
+      <property name="opacity">0</property>
+      <property name="mode">1</property>
+      <property name="mlt_service">vignette</property>
+    </filter>
+    <filter id="filter2" out="00:00:03.960">
+      <property name="argument">Starring Lil' Penny</property>
+      <property name="geometry">263 0 1319 1065 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/madlyinlove.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-18T15:48:34</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">84dca15ba532424cf86da185a843d833</property>
+    <property name="shotcut:caption">madlyinlove.jpg</property>
+    <filter id="filter3" out="00:00:03.960">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/penguinfamily.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-18T15:48:40</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a6e0dbd99e15a9e05f4983b828852413</property>
+    <property name="shotcut:caption">penguinfamily.jpg</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="00:00:12.240">
+    <property name="length">00:00:12.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/swimming.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2018-12-08T20:17:02</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5bb26f7d1bdadface02a04672df61425</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">swimming.mp4</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/danceparty.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-18T15:48:30</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fd447edfd8d10e7053f9e662afbbc1de</property>
+    <property name="shotcut:caption">danceparty.jpg</property>
+    <property name="ignore_points">1</property>
+    <filter id="filter4" in="00:00:01.600" out="00:00:03.960">
+      <property name="argument">iborwick making hard captions over dancing penguins</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter5" in="00:00:01.600" out="00:00:03.960">
+      <property name="start">1</property>
+      <property name="level">00:00:01.400=1;00:00:02.360=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <blank length="00:00:00.040"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:05.080"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:06.800"/>
+    <entry producer="producer12" in="00:00:01.600" out="00:00:03.960"/>
+  </playlist>
+  <producer id="producer13" in="00:00:00.000" out="00:02:45.040">
+    <property name="length">00:02:45.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">media/Funshine.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-18T15:48:20</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3aebd26122486521b6bbf91e22e6351f</property>
+    <property name="shotcut:caption">Funshine.mp3</property>
+    <filter id="filter6" out="00:00:26.360">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:23.400=0;00:00:26.360=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">00:00:03.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:26.360"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 20.10.31" global_feed="1" in="00:00:00.000" out="00:00:26.360">
+    <property name="shotcut">1</property>
+    <property name="shotcut:scaleFactor">2.44091</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
