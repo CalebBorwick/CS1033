@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Big-Circle" serif:id="Big Circle" transform="matrix(1,0,0,1,2,2)">
+        <circle cx="148.5" cy="148.5" r="149.5" style="fill:rgb(108,185,255);"/>
+    </g>
+    <g id="Purple-Circle-Bottom" serif:id="Purple Circle Bottom" transform="matrix(1,0,0,1,184,62)">
+        <circle cx="23" cy="22" r="23" style="fill:rgb(100,0,150);"/>
+    </g>
+    <g id="Purple-Circle-Top" serif:id="Purple Circle Top" transform="matrix(1,0,0,1,184,200)">
+        <circle cx="23" cy="22" r="23" style="fill:rgb(100,0,150);"/>
+    </g>
+    <g id="Blue-Moon" serif:id="Blue Moon" transform="matrix(1.56868,0,0,1.64634,-64.1402,-46.2073)">
+        <path d="M135,39C89.743,39 53,75.743 53,121C53,166.257 89.743,203 135,203C121.423,183.867 110.4,153.71 110.4,121C110.4,88.29 121.423,58.133 135,39Z" style="fill:rgb(0,107,196);"/>
+    </g>
+    <g id="Yellow-Circle-Middle" serif:id="Yellow Circle Middle" transform="matrix(1,0,0,1,-11,2)">
+        <circle cx="218" cy="151" r="34" style="fill:rgb(255,245,39);"/>
+    </g>
+</svg>
